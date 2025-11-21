@@ -17,4 +17,4 @@ image: assets/img/posts/Conversor/Conversor.png
 Le challenge Conversor est toujours actif sur HackTheBox.  
 Le writeup sera disponible quand la machine sera en `Retired Machine`.
 
-<img src="assets/img/posts/Conversor/Pwned.png">
+<img src="assets/img/posts/Conversor/Pwned.png" alt="Pwned">
