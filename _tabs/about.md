@@ -9,7 +9,7 @@ order: 2
 
 <br>
 <div style="text-align:center">
-Je suis Kaiimos|Martin, Technicien Informatique avec 5 ans d’expérience et une passion pour la cybersécurité offensive, Autodidacte, vous trouverez ici ma progression dans l'apprentissage et la montée en compétences de ma cyber offensive.
+Je suis Kaiimos|Martin, Technicien Informatique avec 5 ans d’expérience et une passion pour la cybersécurité offensive, Autodidacte, vous trouverez ici ma progression dans mon apprentissage et mon montée en compétences en cybersécurité.
 </div>
 
 ---
